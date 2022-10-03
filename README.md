@@ -25,4 +25,4 @@ Performs a vigenere cipher on a given message using a given key. Learn more info
 Inacts an Exclusive Or logical operation on the bits of two elements (strings, files, images, etc.)
 
 <br><br><br>
-<footer align="center"> **NOTE: Although I did write many of these programs myself, I did not write all of them myself. Additional credit for these programs goes to Austin Belmonte, Meagan Kropp, Leandro Londin, Stephanie Orellana, and Terence Tugwell </footer>
+<footer align="center"> **NOTE: Although I did write many of these programs myself, I did not write all of them myself. Additional credit for these programs goes to Austin Belmonte, Meagan Kropp, Leandro Londin, Stephanie Orellana, and Terence Tugwell** </footer>
